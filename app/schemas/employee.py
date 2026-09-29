@@ -30,11 +30,11 @@ class EmployeeUpdate(BaseModel):
 
 
 
-
 class EmployeeListResponse(BaseModel):
     msg: str
+    page: int
+    count: int
     data: list[EmployeeResponse]
-
 
 class EmployeeSingleResponse(BaseModel):
     msg: str

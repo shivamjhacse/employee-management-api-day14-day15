@@ -50,9 +50,11 @@ def get_employees(
         )
 
     return {
-        "msg": "data fetched",
-        "data": employees
-    }
+    "msg": "data fetched",
+    "page": page,
+    "count": len(employees),
+    "data": employees
+}
 
 
 def getone_employee(emp_id:int,db:Session):

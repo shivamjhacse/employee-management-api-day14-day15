@@ -4,3 +4,9 @@
 2026-09-29 13:29:59,713 - INFO - Fetching employee list with sorting: None asc
 2026-09-29 13:31:39,587 - INFO - Fetching employees | page=1, limit=20, search=None, department=None, sort=None, order=desc
 2026-09-29 13:31:39,587 - INFO - Fetching employee list with sorting: None desc
+2026-09-29 14:21:53,113 - INFO - Creating employee: shivam kumar jha
+2026-09-29 14:21:53,152 - INFO - Employee created successfully: shivam kumar jha
+2026-09-29 14:22:14,008 - INFO - Fetching employee with ID: 21
+2026-09-29 14:22:14,012 - INFO - Employee fetch completed for ID: 21
+2026-09-29 15:00:20,077 - INFO - Fetching employees | page=1, limit=20, search=None, department=None, sort=None, order=asc
+2026-09-29 15:00:20,077 - INFO - Fetching employee list with sorting: None asc
