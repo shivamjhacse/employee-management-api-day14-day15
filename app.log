@@ -1,0 +1,6 @@
+2026-09-29 13:26:46,397 - INFO - Fetching employees | page=1, limit=20, search=None, department=None, sort=None, order=asc
+2026-09-29 13:26:46,398 - INFO - Fetching employee list with sorting: None asc
+2026-09-29 13:29:59,712 - INFO - Fetching employees | page=1, limit=20, search=None, department=None, sort=None, order=asc
+2026-09-29 13:29:59,713 - INFO - Fetching employee list with sorting: None asc
+2026-09-29 13:31:39,587 - INFO - Fetching employees | page=1, limit=20, search=None, department=None, sort=None, order=desc
+2026-09-29 13:31:39,587 - INFO - Fetching employee list with sorting: None desc
